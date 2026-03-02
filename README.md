@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
 
 Official repository for the paper:
-> **"Connectance and niche overlap modulate trophic effects on species distributions"**  
+> **"Connectance and niche overlap determine when trophic interactions affect species distributions"**  
 > *Nicolàs Merino, Núria Galiana, Miguel B. Araújo*  
 > Journal, Year
 
