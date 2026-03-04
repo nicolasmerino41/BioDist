@@ -82,6 +82,11 @@ code .
 ```
 After running this, VSCode will open and you can run SimulationsCode/MainScript.jl. 
 
+In case needed:
+ - See for Julia installation
+ - See for git installation
+ - See for VSCode installation
+
 ## 🔥 Computing power
 If you plan on executing extensive parameter sweeps, you will have to parallelise the simulations. The easiest way to do so is by running the following code in the console after defining your parameter configuration in Parameters.jl. 
 
