@@ -2,6 +2,7 @@
 
 [![Paper](https://img.shields.io/badge/Paper-Open_Access-blue)](link_to_paper)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19053674.svg)](https://doi.org/10.5281/zenodo.19053674)
 
 Official repository for the paper:
 > **"Connectance and niche overlap determine when trophic interactions affect species distributions"**  
